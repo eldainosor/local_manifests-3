@@ -31,4 +31,4 @@ system/core: repopick [187146](https://review.lineageos.org/#/c/187146)
 There will be a test branch to mess up and if every new change works fine, will be merged on main branch
 
 ## Credits
-This is thanks to alberto97, the main dev of moto msm8916 for Lineage, he made almost everything, also thanks to droidfreak32 who was working hard to make camera and stuff work, and well, a small thanks to me, eldainosor who fixed the init for surnia. be sure to credit to people who made this possible idk
+This is thanks to alberto97, the main dev of moto msm8916 for Lineage, he made almost everything, also thanks to droidfreak32 who was working hard to make camera and stuff work, and well, a small thanks to eldainosor for Readme and who fixed the init for surnia. be sure to credit to people who made this possible idk
