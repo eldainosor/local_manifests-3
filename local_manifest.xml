@@ -15,4 +15,6 @@
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" revision="lineage-15.0" remote="losgit" />
   <project path="external/sony/boringssl-compat" name="lineageos/android_external_sony_boringssl-compat" revision="lineage-15.0" remote="gitstuff" />
 
+  <!-- Add this just in case
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="lineage-15.0" remote="gitstuff" /> -->
 </manifest>
